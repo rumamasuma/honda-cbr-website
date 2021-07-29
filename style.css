@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: darkslategrey;
+}
+ /* all heading font  */
+.heading{
+    font-weight:700;
+    font-family: 'Poppins', sans-serif;
+}
+ /* close  */
+.btn-color {
+    height:44px ;
+    width: 168px;
+}
+.img-clr{
+    filter: grayscale(100%);
+}
+
+/* .happy clients section  */
+.h-title-1{
+    color: rgb(18, 18, 61);
+}
+.h-title-2{
+    color: rgb(207, 97, 19);
+}
+   /* end  */
+   /* star  */
+   .star i{
+       color: rgb(228, 166, 9);
+       font-size: 30px;
+        padding: 5px;   
+   }
+    /* star end  */
+    .review p{
+        font-family: 'Poppins', sans-serif;
+    }
+    .name-1{
+        color: rgb(16, 160, 207);
+    }
