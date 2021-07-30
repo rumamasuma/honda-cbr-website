@@ -13,15 +13,18 @@ header{
     font-family: 'Poppins', sans-serif;
 }
  /* close  */
+ /* header button  */
 .btn-color {
     height:44px ;
     width: 168px;
     font-family: 'Poppins', sans-serif;
 }
+ /* header button  */
+ /* feature image color change  */
 .img-clr{
     filter: grayscale(100%);
 }
-
+ /* feature image color change  */
 /* .happy clients section  */
 .h-title-1{
     color: rgb(18, 18, 61);
@@ -29,7 +32,6 @@ header{
 .h-title-2{
     color: rgb(207, 97, 19);
 }
-   /* end  */
    /* star  */
    .star i{
        color: rgb(228, 166, 9);
@@ -37,23 +39,25 @@ header{
         padding: 5px;   
    }
     /* star end  */
-     /* happy clients section  */
     .review p{
         font-family: 'Poppins', sans-serif;
     }
     .name-1{
         color: rgb(16, 160, 207);
     }
+    /* .happy clients section end */
+    .carousel-item{
+        overflow:hidden;
+    }
+    /* footer  */
     .socials i{
         color: rgb(16, 160, 207);
         font-size: 40px;
         margin: 10px 20px;
-        padding:  10px;
+        padding:5px;
     }
-      /* happy clients section  */
-.carousel-item{
-    overflow:hidden;
-}
+
     footer p{
         margin-bottom: 0;
     }
+     /* footer end  */
